@@ -1,6 +1,6 @@
 # Cisco ISE TACACS+ Device Administration Lab
 
-A hands-on lab implementing **role-based device administration** for network infrastructure using **Cisco ISE (Identity Services Engine)** and **TACACS+**, so that switch/router admin access is centrally authenticated, authorized per command, and fully accounted for — instead of relying on shared local passwords.
+A project implementing **role-based device administration** for network infrastructure using **Cisco ISE (Identity Services Engine)** and **TACACS+**, so that switch/router admin access is centrally authenticated, authorized per command, and fully accounted for — instead of relying on shared local passwords.
 
 ---
 
